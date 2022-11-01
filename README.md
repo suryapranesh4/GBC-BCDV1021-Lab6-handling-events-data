@@ -4,7 +4,7 @@ BCDV1021 - Frontend || FullStack - 1
 
 Lecture 5 - Lab
 
-Git Clone : https://github.com/suryapranesh4/GBC-BCDV1021-Lecture5-Lab.git <br/>
+Git Clone : https://github.com/suryapranesh4/GBC-BCDV1021-Lab6-handling-events-data.git <br/>
 cd my-app <br/>
 npm install <br/>
 npm start <br/>
