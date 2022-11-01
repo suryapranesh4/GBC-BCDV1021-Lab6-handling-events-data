@@ -2,7 +2,7 @@ George Brown College - Blockchain Development T175
 
 BCDV1021 - Frontend || FullStack - 1
 
-Lecture 5 - Lab
+Lab 6 - Handling events
 
 Git Clone : https://github.com/suryapranesh4/GBC-BCDV1021-Lab6-handling-events-data.git <br/>
 cd my-app <br/>
