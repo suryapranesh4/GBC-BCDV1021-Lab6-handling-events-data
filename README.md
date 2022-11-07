@@ -1,10 +1,8 @@
-George Brown College - Blockchain Development T175
+## Handling Events and data in React 
 
-BCDV1021 - Frontend || FullStack - 1
+#### Instructions :
 
-Lab 6 - Handling events
-
-Git Clone : https://github.com/suryapranesh4/GBC-BCDV1021-Lab6-handling-events-data.git <br/>
+git clone https://github.com/suryapranesh4/GBC-BCDV1021-Lab6-handling-events-data.git <br/>
 cd my-app <br/>
 npm install <br/>
 npm start <br/>
